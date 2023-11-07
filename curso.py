@@ -1,0 +1,1 @@
+print ("Hello word my frid")
